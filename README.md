@@ -7,6 +7,7 @@ Transformer Project
 ![Heat map of Tranformer Output Weights](Figure_1.png)
 
 2, Convergence Graph of the Tranformer Model Output Weights
+
 ![Convergence Graph](InitialConvergenceModel.png)
 
 
