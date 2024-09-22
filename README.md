@@ -13,5 +13,7 @@ Transformer Project
 
 
 
-<p> Reference - https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch</p>
+<p> Reference - 1, https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch
+2, Vaswani, Ashish, et al. “Attention Is All You Need.” ArXiv.org, 12 June 2017, arxiv.org/abs/1706.03762.
+</p>
 
