@@ -1,5 +1,5 @@
 <h1>
-Tranformer Project
+Transformer Project
 </h1>
 
 1, Heat map of the Tranformer Model Output Weights --
